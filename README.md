@@ -20,6 +20,11 @@ on the intuition, you got from the error analysis of your baseline and from prop
 The list below is some project ideas you can choose from.
 Each project includes links to the papers that introduce it.
 
+
+If you attend the practie session and have your own idea you want to try, or there is some published research that you really want to implement, then let me know.
+
+Otherwise following are selected projects. They all are cool and nicely doable with Sockeye.
+
 1. Multilingual NMT: https://arxiv.org/pdf/1601.01073.pdf + https://www.aclweb.org/anthology/Q/Q17/Q17-1024.pdf
 2. Fully character level NMT (char2char + bpe2char + char2bpe): http://aclweb.org/anthology/Q17-1026 + bpe2char + char2bpe
 3. Incorporating linguistic info: http://www.statmt.org/wmt16/pdf/W16-2209.pdf
@@ -27,8 +32,7 @@ Each project includes links to the papers that introduce it.
 5. Transformer architecture + convolutional architecture: https://arxiv.org/abs/1706.03762 + https://arxiv.org/abs/1705.03122 
 6. Hyperparameters tuning, model ensembling, and checkpoint averaging: https://arxiv.org/abs/1703.03906 + google for model ensembling and checkpoint averaging
 7. Decoding with lexical constraints: https://github.com/awslabs/sockeye/tree/master/tutorials/constraints + where to get constraints?
-8. Your option (your original idea, or should contain a link to the paper): you can use e.g. https://www.semanticscholar.org/ to find more papers or inspiration
-
+ 
 # Homework
 The homework is to prepare a ***15 minutes*** presentation of the method that relates to your project.
 The aboves list summarizes what to include in the presentation (e.g. for project 6 you have to present the paper + two additional conceps of checkpoint averagins and ensembling while for project 5 you should present 2 papers)
