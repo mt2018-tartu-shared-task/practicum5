@@ -20,9 +20,9 @@ on the intuition, you got from the error analysis of your baseline and from prop
 The list below is some project ideas you can choose from.
 Each project includes links to the papers that introduce it.
 
-1. Multilingual NMT: https://arxiv.org/pdf/1601.01073.pdf + https://www.aclweb.org/anthology/Q/Q17/Q17-1024.pdf + what data to use in our task?
+1. Multilingual NMT: https://arxiv.org/pdf/1601.01073.pdf + https://www.aclweb.org/anthology/Q/Q17/Q17-1024.pdf
 2. Fully character level NMT (char2char + bpe2char + char2bpe): http://aclweb.org/anthology/Q17-1026 + bpe2char + char2bpe
-3. Incorporating linguistic info: http://www.statmt.org/wmt16/pdf/W16-2209.pdf + what features can be extracted for EST and how (https://github.com/estnltk/estnltk etc)?
+3. Incorporating linguistic info: http://www.statmt.org/wmt16/pdf/W16-2209.pdf
 4. Incorporating monolingual data (dummy input + back-translation): https://arxiv.org/pdf/1511.06709.pdf (dummy input + back-translation)
 5. Transformer architecture + convolutional architecture: https://arxiv.org/abs/1706.03762 + https://arxiv.org/abs/1705.03122 
 6. Hyperparameters tuning, model ensembling, and checkpoint averaging: https://arxiv.org/abs/1703.03906 + google for model ensembling and checkpoint averaging
