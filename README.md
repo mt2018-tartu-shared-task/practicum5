@@ -27,7 +27,7 @@ Each project includes links to the papers that introduce it.
 5. Transformer architecture + convolutional architecture: https://arxiv.org/abs/1706.03762 + https://arxiv.org/abs/1705.03122 
 6. Hyperparameters tuning, model ensembling, and checkpoint averaging: https://arxiv.org/abs/1703.03906 + google for model ensembling and checkpoint averaging
 7. Decoding with lexical constraints: https://github.com/awslabs/sockeye/tree/master/tutorials/constraints + where to get constraints?
-8. Your option (your original idea, or should contain a link to the paper)
+8. Your option (your original idea, or should contain a link to the paper): you can use e.g. https://www.semanticscholar.org/ to find more papers or inspiration
 
 # Homework
 The homework is to prepare a ***15 minutes*** presentation of the method that relates to your project.
